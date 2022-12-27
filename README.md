@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nasalidesu
 - 👀 I’m interested in Big Data
 - 🌱 I’m currently learning Transfer Learning, Tableu
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m having experience in project management, visulization and EDA 
 - 📫 How to reach me email nasali.cisco@gmail.com
 
 <!---
